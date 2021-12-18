@@ -1,0 +1,21 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+
+<!-- ProjectXMLFile.xml -->
+<!-- TUTOR Collection structured with XML -->
+<!-- Emmanuel Ossuetta COSC670 Project 05 DEC 2021 -->
+<CATALOG>
+	<COLLECTION>
+		<TUTOR>John Connie</TUTOR>
+		<TUTOR>Jake Ryan</TUTOR>
+		<TUTOR>Nina May</TUTOR>
+		<TUTOR>Martha Davidson</TUTOR>
+		<TUTOR>Joey Nate</TUTOR>
+		<TUTOR>Dave Melow</TUTOR>
+		
+		<MONTH>SEPTEMBER</MONTH>
+		<MONTH>OCTOBER</MONTH>
+		<MONTH>NOVEMBER</MONTH>
+		<MONTH>DECEMBER</MONTH>
+		
+	</COLLECTION>
+</CATALOG>
